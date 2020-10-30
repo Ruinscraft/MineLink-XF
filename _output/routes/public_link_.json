@@ -1,0 +1,11 @@
+{
+    "route_type": "public",
+    "route_prefix": "link",
+    "sub_name": "",
+    "format": "",
+    "build_class": "",
+    "build_method": "",
+    "controller": "Ruinscraft\\MineLink\\Pub\\Controller\\Link",
+    "context": "",
+    "action_prefix": ""
+}

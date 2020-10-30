@@ -1,0 +1,20 @@
+{
+    "minelink_invalid_code.txt": {
+        "global_cache": false,
+        "version_id": 100,
+        "version_string": "1.0.0",
+        "hash": "ec39dc17e2050b61a7a02d339a0e8c47"
+    },
+    "minelink_link_success.txt": {
+        "global_cache": false,
+        "version_id": 100,
+        "version_string": "1.0.0",
+        "hash": "8c4ad81752e99cf5d750de6664924c01"
+    },
+    "minelink_must_be_logged_in.txt": {
+        "global_cache": false,
+        "version_id": 100,
+        "version_string": "1.0.0",
+        "hash": "602e3fda8c93765b736d3154b32941c0"
+    }
+}

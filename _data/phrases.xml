@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="minelink_invalid_code" version_id="100" version_string="1.0.0"><![CDATA[The supplied code is invalid or has already been used.]]></phrase>
+  <phrase title="minelink_link_success" version_id="100" version_string="1.0.0"><![CDATA[You have succesfully linked your Minecraft account.]]></phrase>
+  <phrase title="minelink_must_be_logged_in" version_id="100" version_string="1.0.0"><![CDATA[You must be logged in to link an account.]]></phrase>
+</phrases>

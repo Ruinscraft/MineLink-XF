@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public" title="mclink_link" version_id="1" version_string="Release 1"><![CDATA[<p>
+	MCLink
+</p>
+
+<p>
+	{$user_id}
+</p>]]></template>
+</templates>
